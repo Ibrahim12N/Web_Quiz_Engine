@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="c02acda9-b1c8-44c4-91dc-bb029286c47c" name="Web_Quiz_Engine" url="jdbc:postgresql://localhost/Web_Quiz_Engine" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

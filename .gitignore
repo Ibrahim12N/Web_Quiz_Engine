@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/production/classes/
+/Topics/Lambda expressions/Production of all numbers in the range/out/
+/Topics/Lambda expressions/Production of all numbers in the range/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Illegal identifiers/out/
+/Topics/Regexes in programs/Illegal identifiers/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/
+/Web Quiz Engine/task/build/
+/Web Quiz Engine/task/out/
+/Web Quiz Engine/task/out/production/classes/
+/Web Quiz Engine/task/out/test/classes/
